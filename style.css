@@ -1,0 +1,16 @@
+body{
+text-align: center;
+    background: linear-gradient(blue;green)
+}
+li{
+    display:inline;
+    float: right;
+    padding: 8px;
+}
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
